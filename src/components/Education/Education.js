@@ -6,7 +6,7 @@ function Education() {
     <div className='mainEducation'>
       <h1 className="text-decoration-underline">Education</h1>
       <br></br>
-      <h2>(NOT FROM TIER 1, TIER 2)</h2>
+      <h2>(NOT FROM TIER 1, TIER 2!!)</h2>
       <br></br>
       <h3>I am from the Top "Non-for-profit" University in India</h3>
       <br></br>
