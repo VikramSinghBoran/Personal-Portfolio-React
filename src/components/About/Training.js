@@ -9,7 +9,7 @@ function Training() {
       <hr></hr>
       <br></br>
       <h1 className="text-decoration-underline">Skills:</h1>
-      <ul>
+      <ul className='skillsList'>
         <li>Java</li>
         <li>JavaScript</li>
         <li>Reactjs</li>
