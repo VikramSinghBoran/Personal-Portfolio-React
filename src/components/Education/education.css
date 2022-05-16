@@ -1,0 +1,11 @@
+.mainEducation{
+    height: 80vh;
+    box-sizing: border-box;
+    margin: 10vh 0;
+    background-color: brown;
+    width: 70%;
+    justify-self: flex-end;
+    border: 0.5em solid rgb(2, 15, 20);
+    border-radius: 5%;
+    color: whitesmoke;
+}

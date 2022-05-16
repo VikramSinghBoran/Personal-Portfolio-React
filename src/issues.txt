@@ -1,0 +1,5 @@
+(1) Image not showing in Home:
+    (i) Inline kro to kuch nahi aa raha
+    (ii) exteranl se blank image aari
+
+(2) 

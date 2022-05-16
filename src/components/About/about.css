@@ -1,0 +1,11 @@
+.mainAbout{
+    box-sizing: border-box;
+    height: 80vh;
+    margin: 10vh 0;
+    background-color: black;
+    width: 70%;
+    justify-self: flex-end;
+    border: 0.5em solid rgb(2, 15, 20);
+    border-radius: 5%;
+    color: whitesmoke;
+}
