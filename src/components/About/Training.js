@@ -14,7 +14,7 @@ function Training() {
         <li>JavaScript</li>
         <li>Reactjs</li>
         <li>Nodejs - Expressjs - MongoDB</li>
-        <li>Data Structures and Alogorithm</li>
+        <li>Data Structure and Algorithm</li>
       </ul>
     </div>
   )
