@@ -5,6 +5,7 @@ function Training() {
   return (
     <div className='mainAbout'>
       <h1>Few Lines... assume them to be really impressive.</h1>
+      
       <br></br>
       <hr></hr>
       <br></br>

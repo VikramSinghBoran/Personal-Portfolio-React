@@ -51,6 +51,7 @@ function Home() {
                 </div>
                 <div className='name'>
                     <h2>Vikram Singh Boran</h2>
+                    <p>This is under developement right now by the way! Updates will be better.</p>
                 </div>
             </div>
         </div>
