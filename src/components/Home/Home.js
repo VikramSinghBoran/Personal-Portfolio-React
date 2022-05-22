@@ -9,7 +9,7 @@ function Home() {
                 <img src={require('../../images/owl.jpg')} className="rounded mx-auto d-block" id='profileImage' alt="..."></img>
             </div>
             <div className='downloadDiv'>
-                <button type="button" className="btn btn-danger">Download</button>
+                <button type="button" className="btn btn-danger"><a href="#">Download</a></button>
             </div>
         </div>
         <div className='mainRight'>
